@@ -6,4 +6,4 @@ Pero mi verdadera pasión es el aprendizaje continuo. Actualmente, estoy enfocad
 
 Mi Github es una ventana a mi creatividad y habilidades técnicas. Aquí encontrarás proyectos personales y profesionales que van desde aplicaciones web hasta soluciones en la nube. Cada uno de ellos es un testimonio de mi dedicación y pasión por la tecnología.
 
-¿Quieres trabajar juntos en un proyecto emocionante o tienes alguna pregunta sobre mis proyectos? ¡No dudes en ponerte en contacto conmigo! Estoy emocionado de conectarte y ver lo que podemos crear juntos. ¡Gracias por visitar mi Github! 🙌
+¿Quieres trabajar juntos en un proyecto emocionante o tienes alguna pregunta sobre mis proyectos? ¡No dudes en ponerte en contacto conmigo! Estoy emocionado de conectar y ver lo que podemos crear juntos. ¡Gracias por visitar mi Github! 🙌
