@@ -96,3 +96,5 @@ I'm interested in these technologies; planning to learn them soon.
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tbownt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### I am highly motivated to learn effectively and confidently to complete challenging tasks. :pencil: 
