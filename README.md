@@ -1,11 +1,11 @@
-# Hi there! 👋
+# Hi there! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25rem"><br/>
 
-## About me 👨🏻‍💻
+## I'm Andres Salom, a Software Developer based in Venezuela 👨🏻‍💻.
 
-I'm Andres Salom, a Software Developer based in Venezuela.
+### About me 🤓
 
 
-My main focus is <strong>Front-End Development</strong>. I love working with modern technologies to deliver beautiful experiences.
+My main focus is <strong>Front-End Development</strong>. I love working with design and logical modules.
 
 <details>
 <summary>💡 Ask me about</summary>
@@ -15,7 +15,7 @@ My main focus is <strong>Front-End Development</strong>. I love working with mod
 ```typescript
 const user: Dev = {
     fullName: "Andres Salom",
-    country: "Venezuela 🇨🇷",
+    country: "Venezuela",
     languages: ["English 🇺🇸", "Spanish 🇲🇽"],
     topics: {
         'Tech': { icon: '🤖', valid: true },
@@ -31,13 +31,13 @@ const user: Dev = {
 
 ## Contact 💬
 
-[![Website](https://img.shields.io/badge/website-20232A?style=for-the-badge&logo=Google%20Home&logoColor=FF7F50)]()
+[![Portafolio](https://img.shields.io/badge/portfolio-20232A?style=for-the-badge&logo=Google%20Home&logoColor=FF7F50)]()
 [![Email](https://img.shields.io/badge/email-20232A?style=for-the-badge&logo=Gmail&logoColor=FF7F50)](mailto:andresjose543@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/andres-salom/)
 ![Views](https://hits.sh/github.com/Tbownt/hits.svg?style=for-the-badge&label=Profile%20views&color=20232A&labelColor=20232A)
 
 
-## Skills & Technologies 🛠️
+## Skills && Tools 🛠️
 
 A list of the technologies I've worked with or I'm interested in:
 
@@ -96,5 +96,7 @@ I'm interested in these technologies; planning to learn them soon.
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tbownt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Tbownt GitHub stats](https://jolibois-readme-stats.vercel.app/api?username=tbownt&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ### I am highly motivated to learn effectively and confidently to complete challenging tasks. :pencil: 
