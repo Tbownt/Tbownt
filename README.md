@@ -31,7 +31,7 @@ const user: Dev = {
 
 ## Contact 💬
 
-[![Portafolio](https://img.shields.io/badge/portfolio-20232A?style=for-the-badge&logo=Google%20Home&logoColor=FF7F50)](https://tbownt-portfolio.netlify.app/)
+[![Portafolio](https://img.shields.io/badge/portfolio-20232A?style=for-the-badge&logo=Google%20Home&logoColor=FF7F50)](https://andressalom-portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/email-20232A?style=for-the-badge&logo=Gmail&logoColor=FF7F50)](mailto:andresjose543@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/andres-salom/)
 ![Views](https://hits.sh/github.com/Tbownt/hits.svg?style=for-the-badge&label=Profile%20views&color=20232A&labelColor=20232A)
